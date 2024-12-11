@@ -1,6 +1,6 @@
-joblib @ file:///C:/b/abs_f4b98l6lgk/croot/joblib_1718217224240/work
+joblib 
 Levenshtein==0.26.1
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
-pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp312-cp312-win_amd64.whl#sha256=2c8058e41dda2e7ecfff0740ad1d98f17d528c740f71b038c523a9d24d2321b0
+numpy 
+pandas 
 pyserial==3.5
-streamlit @ file:///C:/b/abs_84p_54gim8/croot/streamlit_1724335176234/work
+streamlit
